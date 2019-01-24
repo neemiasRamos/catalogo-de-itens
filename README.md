@@ -16,7 +16,9 @@ Arquivos necessários.
 Python 3.5
 
 Partindo do principio, que você tenha o python instalado em sua máquina, vamos lá:
-* Instalar vagrant e virtualbox.
-* Abra o terminal na pasta do projeto e digite "vagrant up", aguarde alguns segundos e digite "vagrant ssh".
+* Clone o repositório
+* Instale o vagrant e o virtualbox.
+* Abra o terminal e acesse a pasta do projeto
+* digite no terminal: "vagrant up" e aguarde o cursor voltar, em seguida digite "vagrant ssh".
 * Crie o banco de dados digitando o comando "database_setup.py".
 * Execute o aplicativo "project.py" e, em seu navegador, acesse http://localhost:5000

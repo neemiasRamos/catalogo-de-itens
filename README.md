@@ -13,7 +13,7 @@ Arquivos necessários.
 * Fullstack Nanodegree VM 
 [clique aqui](https://github.com/udacity/fullstack-nanodegree-vm)
 ## Executar
-Python 3.5
+Python 2.7
 
 Partindo do principio, que você tenha o python instalado em sua máquina, vamos lá:
 * Clone o repositório

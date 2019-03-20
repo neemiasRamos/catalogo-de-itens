@@ -61,7 +61,7 @@ class MenuItem(Base):
             'name': self.name,
             'description': self.description,
             'id': self.id,
-            'price: self.price,
+            'price': self.price,
             'course': self.course,
         }
 
